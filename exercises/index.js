@@ -13,7 +13,7 @@ let personnel = [
     },
     {
         ID: 3112,
-        fullName: "Ban Thi No",
+        fullName: "Ban Thi Na",
         email: "thi_no@gmail.com",
         birthday: {day: 4, month: 4, year: 1987},
         age: 0,
